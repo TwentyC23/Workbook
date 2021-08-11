@@ -1,0 +1,8 @@
+Readers: 
+Reader [name=pupute, email=putpute.mail, college=zouzouville, docs=2, period=10] is a Student [address=1]
+
+Documents: 
+Document [id=046468, title=renejeanpage, price=41.0, repayment=80.0, copy=1] is a Book [author=andrew marc junior]
+
+Lendings: 
+Lending [name=Reader [name=pupute, email=putpute.mail, college=zouzouville, docs=2, period=10] is a Student [address=1], id=Document [id=046468, title=renejeanpage, price=41.0, repayment=80.0, copy=1] is a Book [author=andrew marc junior], date=Thu Dec 31 00:00:00 CET 1998, period=10]
